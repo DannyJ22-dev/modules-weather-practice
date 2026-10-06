@@ -1,0 +1,25 @@
+{
+  "name": "modules-weather-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyJ22-dev/modules-weather-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DannyJ22-dev/modules-weather-practice/issues"
+  },
+  "homepage": "https://github.com/DannyJ22-dev/modules-weather-practice#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "yargs": "^18.2.0"
+  }
+}
